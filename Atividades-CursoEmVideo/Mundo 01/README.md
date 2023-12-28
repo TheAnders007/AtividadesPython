@@ -19,3 +19,9 @@ Repositório destinado aos desafios do mundo 01 do curso de python3.
 | 13 | Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento. |
 | 14 | Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit. |
 | 15 | Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado. |
+| 16 | Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira. |
+| 17 | Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa. |
+| 18 | Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo. |
+| 19 | Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido. |
+| 20 | O mesmo professor do desafio 19 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada. |
+
