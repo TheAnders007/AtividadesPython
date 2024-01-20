@@ -25,4 +25,9 @@ Repositório destinado aos desafios do mundo 01 do curso de python3.
 | 19 | Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido. |
 | 20 | O mesmo professor do desafio 19 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada. |
 | 21 | Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3. |
-
+| 22 | Crie um programa que leia o nome completo de uma pessoa e mostre: <br> <br> – O nome com todas as letras maiúsculas e minúsculas. <br> – Quantas letras ao todo (sem considerar espaços). <br> – Quantas letras tem o primeiro nome. |
+| 23 | Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados. |
+| 24 | Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome “SANTO”. |
+| 25 | Crie um programa que leia o nome de uma pessoa e diga se ela tem “SILVA” no nome. |
+| 26 | Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez. |
+| 27 | Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. |
